@@ -1,1 +1,1 @@
-# CSM158-C-
+Hello. I'm Issahaku Suhair Mariam Kunguo-Momori, a first-year Computer Science major at Kwame Nkrumah University of Science and Technology. This semester, I aim to get the basics of C++ down and to be able to write code in C++ and make overall progress in my learning journey. #CSM158-C-
